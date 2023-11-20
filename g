@@ -1,5 +1,3 @@
-
-ganga
-narmada
-godavari
+bed 
+house
 
